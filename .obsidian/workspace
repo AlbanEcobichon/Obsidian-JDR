@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6428b6310b46d60e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb0f2fad62b0ed9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aventure/Le savoir de Lurué.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9e191b35b736dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6926840e665765b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a597c9644637476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c43171cde9c0a14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb21df453cfb9c31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6851a4c91d8446a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced3a463b5379887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f9875291761c7a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aventure/Le savoir de Lurué.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "063909810f85cfdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aventure/Le savoir de Lurué.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b69e0c354e087d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "723f1fe1ef2b9078",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aventure/Le savoir de Lurué.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fb0f2fad62b0ed9",
+  "lastOpenFiles": [
+    "Concept/Forge sacré - Le Sancthile.md",
+    "Lieu/EiselCross/Tomb of the Worm.md",
+    "Aventure/Le savoir de Lurué.md",
+    "Personnage/Dieux/Dieux Traitre/Compagnon/Quajath.md",
+    "Personnage/Dieux/Dieux Traitre/Compagnon/Desirat.md",
+    "Personnage/Dieux/Dieux Traitre/Compagnon/Ukothoa.md",
+    "Personnage/Dieux/Dieux Traitre/Zehir.md",
+    "Personnage/Dieux/Dieux Traitre/Torog.md",
+    "Personnage/Dieux/Dieux Traitre/Asmodeus.md",
+    "Lieu/Kings Cage.md"
+  ]
+}
