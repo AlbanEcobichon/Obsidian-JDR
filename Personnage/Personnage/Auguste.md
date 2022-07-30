@@ -1,0 +1,1 @@
+Connard  qui fait des pactes pour prendre le controle de personnes pour les transformer en monstre.
