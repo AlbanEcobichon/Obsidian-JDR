@@ -1,1 +1,0 @@
-Blason d'une bague d'Hadaraï.

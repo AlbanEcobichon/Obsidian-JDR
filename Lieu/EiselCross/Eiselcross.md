@@ -1,10 +1,10 @@
 Plaine de neige et montagne escarpé
 Ressenti -40°C
-[[Eislcross]] est une archipel au nord du continent de [[Wildemount]], composée de 8 iles.
+[[Eiselcross]] est une archipel au nord du continent de [[Wildemount]], composée de 8 iles.
 
 ![[Eiselcross.png]]
 
-[[Eislcross]] est une archipel au nord du continent de [[Wildemount]]. 
+[[Eiselcross]] est une archipel au nord du continent de [[Wildemount]]. 
 L'îles principal et central s'appelle [[Foren]]
 A l'Ouest de [[Foren]] se trouve l'île de [[Gelier]]. C'est sur cette île que se trouve la [[Tomb of the Worm]].
 

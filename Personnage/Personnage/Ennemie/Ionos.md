@@ -1,0 +1,3 @@
+Après la mort de la [[Famille Jagentoth]], nous avons trouvé un journal lui appartenant. Dans ce journal nous voyons que c'est un raciste, contraire au mélange de race. Il y a 3 ans, il as découvert que son frere [[Reese]] à eu une relation extraconjuguale avec la mère d'[[Hadaraï]] qu'il as fait exécuté. Et dès qu'il as appris l'existence d'[[Hadaraï]], il as commandité le meurtre.
+
+Il as aussi été contacté aussi pour chercher un des cristaux possiblement de [[Rituel d'invocation des compagnons des dieux]]. On as pas de noms qui relierais directement au [[Roi]] ou à un de ses serviteurs.

@@ -9,4 +9,4 @@ Nous avons visité les catacombes, qui sont rempli de saloperie tel des fantôme
 
 Un dragon fantomatique s'appelant Miirym se trouve aussi dans ces catacombes. Elle est pacifique et nous a demandé des nouvelles du monde extérieur. 
 
-Erywenn a trouver un livre intitulé "[[Le savoir de Lurué]]", qu'elle ignore.
+Erywenn a trouver un livre intitulé "[[1 - Le savoir de Lurué]]", qu'elle ignore.

@@ -2,7 +2,7 @@
 
 Nous cherchons des informations sur différents sujets quand tout à coups :
 
-- ###### [[Le savoir de Lurué]]
+- ###### [[1 - Le savoir de Lurué]]
 
 Nous sortons du coffre fort pour retrouver le [[Vrai Faux Vraacas]]. Et nous continuons quelques recherche, par exemple nous avons identifier le blason de la bague que portait [[Hadaraï]], comme étant le blason de la [[Famille Jagentoth]]. Nous recherchons aussi quelque document sur l'[[Auguste]], mais ne trouvons pas grand chose comme si le sujet était évité. Nous cherchons vite fait aussi des informations sur le [[Congrégation de l'ombre]]. 
 
@@ -11,4 +11,6 @@ On fuit dans la chambre avec les affiches pour réfléchir. Pendant qu'on réfl�
 
 En essayant de sortir par la fenêtre nous voyons le cadavre d'un enfant qui était celui qui nous a déposé le papier. Il aurait sauter de la fenêtre et serais mort de la chute, mais en l'examinent on remarque qu'il n'as pas saigné malgrés les plaits et n'émét pas de magie. Nous fuyons et grâce à l'aide des pouvoirs de la clé d'Erywenn. Nous arrivons au chariot qu'Erywenn fouille pour être sur qu'il n'y ai pas de problème. Nous fuyons, le plan étant que Erywenn déguisé fuit avec le chariot, tandis que moi et Beirou fuyons en balai par dessus les remparts.  Nous réussissons l'escapade et beaucoup plus loin sur la route nous croisons une silouhette massive en armure sur la route.
 
-Nous lui demandons de se pousser de la route pour qu'on continue notre voyage. Il demande Beirou en duel. Erywenn essaye de calmer le jeu mais sans succès. Beirou se fait peter la gueule et abandonne. La personne lui dit qu'il est faible et qu'il doit progresser.
+Nous lui demandons de se pousser de la route pour qu'on continue notre voyage. Il demande Beirou en duel. Erywenn essaye de calmer le jeu mais sans succès. Beirou se fait peter la gueule et abandonne. La personne lui dit qu'il est faible et qu'il doit progresser. Et nous partons pour :
+
+- ###### [[2 - La vengance d'Hadaraï]] 

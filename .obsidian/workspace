@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aventure/Le fil de nos aventure.md",
+            "file": "Aventure/2 - La vengance d'Hadaraï.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aventure/Le fil de nos aventure.md",
+                "file": "Aventure/2 - La vengance d'Hadaraï.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aventure/Le fil de nos aventure.md",
+                "file": "Aventure/2 - La vengance d'Hadaraï.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aventure/Le fil de nos aventure.md"
+                "file": "Aventure/2 - La vengance d'Hadaraï.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5fb0f2fad62b0ed9",
   "lastOpenFiles": [
-    "Haute Curratrice Maureen Thalys.md",
+    "Personnage/Personnage/Ennemie/Ionos.md",
+    "Aventure/2 - La vengance d'Hadaraï.md",
+    "Lieu/L'Empire/Shadycreek Run.md",
     "Aventure/Le fil de nos aventure.md",
-    "Personnage/Personnage joueur/Hadaraï.md",
-    "Concept/Coeur de l'enfer.md",
-    "Concept/Rituel d'invocation des compagnons des dieux.md",
-    "Personnage/Personnage/Auguste.md",
-    "Personnage/Groupuscule/Congrégation de l'ombre.md",
-    "Aventure/Le savoir de Lurué.md",
-    "Personnage/Groupuscule/Famille Jagentoth.md",
-    "Aventure/Le savoir de Lurué/Untitled.md"
+    "Lieu/Wildemount.md",
+    "Lieu/Kryn Dynastie/Kings Cage.md",
+    "Personnage/Personnage/Allié/Torek.md",
+    "Personnage/Groupuscule/Famille mafieuse de Shadycreek Run/Famille Jagentoth.md",
+    "Lieu/L'Empire/Brèche de Quannah.md",
+    "Lieu/L'Empire/Bysaes Tyl.md"
   ]
 }

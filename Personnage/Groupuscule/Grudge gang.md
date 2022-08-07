@@ -1,0 +1,1 @@
+Faction de mercenaire qui maintient l'ordre publique à [[Shadycreek Run]]. Mafia style.

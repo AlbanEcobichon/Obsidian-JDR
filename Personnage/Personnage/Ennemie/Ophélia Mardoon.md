@@ -1,0 +1,1 @@
+Connasse riche
