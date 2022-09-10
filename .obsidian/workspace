@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aventure/2 - La vengance d'Hadaraï.md",
+            "file": "Aventure/Le fil de nos aventure.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aventure/2 - La vengance d'Hadaraï.md",
+                "file": "Aventure/Le fil de nos aventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aventure/2 - La vengance d'Hadaraï.md",
+                "file": "Aventure/Le fil de nos aventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aventure/2 - La vengance d'Hadaraï.md"
+                "file": "Aventure/Le fil de nos aventure.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5fb0f2fad62b0ed9",
   "lastOpenFiles": [
-    "Personnage/Personnage/Ennemie/Ionos.md",
-    "Aventure/2 - La vengance d'Hadaraï.md",
-    "Lieu/L'Empire/Shadycreek Run.md",
+    "Concept/Rituel d'invocation des compagnons des dieux.md",
     "Aventure/Le fil de nos aventure.md",
-    "Lieu/Wildemount.md",
-    "Lieu/Kryn Dynastie/Kings Cage.md",
-    "Personnage/Personnage/Allié/Torek.md",
+    "Personnage/Personnage/Ennemie/Gerard Dardalin.md",
+    "Aventure/2 - La vengance d'Hadaraï.md",
+    "Aventure/Wanted - nos avis de recherche.md",
+    "Yrrosa.md",
+    "Lieu/L'Empire/Icehaven.md",
     "Personnage/Groupuscule/Famille mafieuse de Shadycreek Run/Famille Jagentoth.md",
-    "Lieu/L'Empire/Brèche de Quannah.md",
-    "Lieu/L'Empire/Bysaes Tyl.md"
+    "Personnage/Personnage/Ennemie/Ionos.md",
+    "Lieu/Wildemount.jpg"
   ]
 }

@@ -37,6 +37,6 @@ Dans son dernier souffle Ionos ordonne a quelque chose de nous tuer, et une enor
 
 C'est la fin du combat, nous fouillons le manoir à la recherche de trésor ou d'information. Orathio finit par tomber sur le bureau de [[Ionos]] où il trouve un journal expliquant qu'il as découvert l'aventure qu'as eu son frère avec la mère d'[[Hadaraï]] et que c'etait lui qui l'avait fait tué.
 
-Nous fouyons donc le manoir. Nous trouvons des documents incriminants [[Ionos]]. Ainsi que des spells slots et et de l'argent. 
+Nous fouillons donc le manoir. Nous trouvons des documents incriminants [[Ionos]]. Ainsi que des spells slots et et de l'argent. 
 
 Nous sortons du manoir pour commencer à s'en aller. Juste avant de partir je fais exploser le reste du manoir.
