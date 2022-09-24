@@ -20,7 +20,7 @@ Erywenn nous prépare des faux papiers d'identités :
 	- Fausse identité de Grimgor (DC 22 Investigation)
 	- Contrat de mercenariat  (DC 19 Investigation)
 
-Nous approchons enfin de la [[Brèche de Quannah]], une garde nous contrôle et ne trouve rien as dire sur les papiers, nous fait payer le péage. Avant de partir au moment où elle me rend mes papiers, elle se penche vers moi et me dit "Un plaisir de vous rencontrer". Cela veux dire qu'une seul chose, elle connait de nom [[Gerard Dardalin]] soit le [[Roi]] as des fidèles parmis l'[[Empire]], soit il le contrôle.
+Nous approchons enfin de la [[Brèche de Quannah]], une garde nous contrôle et ne trouve rien as dire sur les papiers, nous fait payer le péage. Avant de partir au moment où elle me rend mes papiers, elle se penche vers moi et me dit "Un plaisir de vous rencontrer". Cela veux dire qu'une seul chose, elle connait de nom [[Gérard Dardalin]] soit le [[Roi]] as des fidèles parmis l'[[Empire]], soit il le contrôle.
 Nous traversons enfin la porte frontalière, toujours sur nos gardes. Nous ne somme jamais autant allé au nord, il fait de plus en plus froids. [[Shadycreek Run]] est à 2 jours de route encore. Sur le chemin nous croisons un homme qui nous donne un parchemin. Erywenn detecte une aura de divination sur le sceaux qui verrouille le parchemin. Je décide de l'ouvrir quand même, une écriture que je connais pas me dit : 
 
 >![[Lettre_des_Mardoon.png]]
