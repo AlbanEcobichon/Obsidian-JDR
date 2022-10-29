@@ -16,14 +16,20 @@ Une fois la rue traversé, des détonations retentisse et une tour proche nous t
 Nous rejoignons [[Lucrèce Maurer]] sur son bateau. Elle nous demandes si nous somme prêt à partir pour [[Eiselcross]], nous répondons que nous somme fin prêts.
 Sur le chemin nous payons  un tribu à une tortue dragon pour un passage facilité de la mer. Après un passage tranquille, nous approchons enfin des côtes après plusieurs jours.
 
-On tombe sur l'esprit qui met au défi Beirou. Beirou fait un un peu plus ses preuves.
+On tombe sur l'esprit qui met au défi [[Beirou]], il arrive a faire mieux ses preuves.
 
-On entre au camps, on as failli se faire expulser a cause d'Erywenn, et on trouve enfin [[Torek]].
+On entre au camps, on as failli se faire expulser a cause d'[[Erywenn]], et on trouve enfin [[Torek]].
 Il nous donne des conseils :
-- Le vers de glace demande un tribu à l'entrée d'Aeor
+- Le vers de glace demande un tribu à l'entrée de la [[Cité de volante d'Aeor]]
 - Les ennemis sont nombreux
-- 3 type d'ennemi à Aeor :
+- 3 type d'ennemi à la [[Cité de volante d'Aeor]] :
 	- Absorbe
 	- Renvoie
 	- Nullifie
+
+Il nous informe que nous pouvons obtenir de l'équipement tel que des raquettes, crampon et traineaux. Il nous parle aussi de ***l'Acheteur*** un vendeur de curiosité qui se situerais à [[Syrinlya]]. [[Syrinlya]] est un petit camps à 170 miles environs de [[Balenpost]]. ***Kalgath***, un vieux goliath qui se trouve dans le camps de [[Balenpost]], pourrais nous conduire à [[Syrinlya]]. 
+
+Nous décidons d'aller voir ce goliath pour avoir une idée de ce que nous devons prendre. Il se présente amicalement et nous demande ce que nous voulons faire. Après nous avoir soudoyé de quelques rations, il nous indique que son clan pourrais nous aider et qu'il se trouve au nord en haut d'une montagne. Son clan maitrise le dressage de griffon. 
+
+Nous décidons de suivre cette voie, mais nous nous équipons avant de partir. Nous nous équipons de chaussure de neige et de crampon et nous partons.
 

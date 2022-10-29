@@ -1,5 +1,5 @@
 Chaque cité à sa spécialité
-Aeos est connu pour avoir été détruite par les dieux car il créait des armes capables de tuer des dieux.
+La [[Cité de volante d'Aeor]] est connu pour avoir été détruite par les dieux car il créait des armes capables de tuer des dieux.
 
 Il en existes plusieurs :
 	- Aeos

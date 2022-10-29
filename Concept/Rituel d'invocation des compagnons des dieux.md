@@ -6,3 +6,6 @@ Il faut les trois temples qui contennait les pierres pour activer le rituel :
 	- Quoraska
 	- Urukayxl
 	- Tussoa
+
+- [[Desirat]]
+- [[Quajath]]

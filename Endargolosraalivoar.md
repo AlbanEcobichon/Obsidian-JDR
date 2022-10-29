@@ -1,0 +1,1 @@
+Dragon blanc se trouvant dans les montagnes près du site de crash [[Cité de volante d'Aeor]].
