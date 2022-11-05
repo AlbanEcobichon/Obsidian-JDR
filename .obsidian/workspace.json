@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventure/5 - Voyage vers Syrinlya.md",
+                "file": "Aventure/5 - Voyage vers Syrinlya & le site du crash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c5dc30d84967b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aventure/6 - La cité (plus si volante que ça) d'Aeor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aventure/5 - Voyage vers Syrinlya.md",
+                "file": "Aventure/6 - La cité (plus si volante que ça) d'Aeor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aventure/5 - Voyage vers Syrinlya.md",
+                "file": "Aventure/6 - La cité (plus si volante que ça) d'Aeor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aventure/5 - Voyage vers Syrinlya.md"
+                "file": "Aventure/6 - La cité (plus si volante que ça) d'Aeor.md"
               }
             }
           }
@@ -136,20 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ddc23aef32ba3279",
+  "active": "4c5dc30d84967b54",
   "lastOpenFiles": [
+    "Personnage/Dieux/Déité Primaire/Sehanine.md",
+    "Aventure/5 - Voyage vers Syrinlya & le site du crash.md",
+    "Aventure/6 - La cité (plus si volante que ça) d'Aeor.md",
+    "Lieu/EiselCross/Balenpost.md",
+    "Yrrosa.md",
+    "Personnage/Groupuscule/Cobalt Souls.md",
     "Concept/Forge sacré - Le Sancthile.md",
     "Concept/Rituel d'invocation des compagnons des dieux.md",
-    "Aventure/5 - Voyage vers Syrinlya.md",
     "Aventure/Le fil de nos aventure.md",
-    "Endargolosraalivoar.md",
-    "Lieu/EiselCross/Eiselcross.png",
-    "Balenpost.md",
-    "Aventure/4 - Une expédition vers Eiselcross.md",
-    "Kalgath.md",
-    "Syrinlya.md"
+    "Endargolosraalivoar.md"
   ]
 }
