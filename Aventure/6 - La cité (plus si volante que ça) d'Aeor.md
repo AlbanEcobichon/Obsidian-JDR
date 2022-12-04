@@ -125,3 +125,44 @@ Le Voyageur demande à Erywenn de tuer la créature. Erywenn s'exécute et tente
 Beirou intervient et limite le mouvement d'Erywenn. On arrive à le convaincre de nous expliquer un peu et on découvre que la créature fait parti d'une race destructrice de monde. 
 
 Nous allons enfin vers la porte que le Voyageur nous avait déconseillé. Elle débouche sur une salle circulaire recouverte de rune ainsi que des cercles et autre symboles ésotériques. Je réussi a ressortir des informations, c'est un rituel qui supprimerais les âmes de toutes les personnes dans la zones, et je remarque une faute à un endroit qui rendrait le rituel incorrect.
+
+#### Un hurlement à la lune
+
+Voyageur dit que c'est possiblement des intrus qui ont réactivé les défenses de la ville. Il nous indiques qu'il peut nous guider vers la salle au trésor, un endroit de merveille mais aussi qui n'es pas protégé de la téléportation. 
+
+Nous avançons à pas rapide vers la sortie promise, quand le sol se met à trembler. Nous continuer à avancer malgré les secousses. Voyageur part voir ce qu'il se passe et nous atteignons enfin le dernier étage de la cité. Face à nous se trouve deux grosse créature, une créature quadripède avec une queue qui fini avec un œil et une grande créature serpentine couvert de dent. 
+
+Lancez l'initiative. 
+
+Après avoir battue ces deux créatures, deux autres créature émergent d'une galerie voisine. Nous les affrontons vaillamment et nous continuons vers la salle au trésor.
+
+Erywenn nous guide habilement dans les couloirs, mais nous tombons nez-à-nez avec une troupe de garde robotique. Nous tentons de nous mettre invisible, mais Beirou nous fait repérer. Il tente de tous les tuer d'un coup, mais en laisse un en vie qui prend le temps de sonner l'alarme. Soudainement deux énorme titan mécanique traverse le mur et nous attaque.
+
+Lancez l'initiative. 
+
+Nous vainquons ses géants mécaniques, et progressons dans les couloirs. A un moment, on repasse prêt du gouffre, et on voit un warforged gigantesque qui tombe taclé par une autre créature. Nous arrivons enfin à la salles du trésors qui s'ouvre avec le cristal clé que nous avions trouvé. Nous entrons donc dans une salle avec des coffres des restes d'armure, une console et des coffres. 
+
+Orathio trouves diverses objet digne d'archéologie et d'avoir une valeur dans un musée. Beirou en cherchant des objets religieux, tombe sur une paire de gant runée que j'identifie come des "Gloves of Souls Catching". Erywenn trouve une balise de Luxon. Orathio tombe nez-à-nez avec Robe the Archimagi.
+
+Nous trouvons aussi un inventaire :
+2 Aeorian Protective Chestplate
+1 Aeorian Security Cannon de chaque (Light Hand Heavy)
+Paire de bottes : Boots of haste (Erywenn)
+Dague : Daguer of denial (Erywenn)
+
+10 000 pièce électrum
+3000 pièce d'or
+500 pièce de platine
+1100 pièce d'argent
+1900 pièce de cuivre
+
+Une dernière fois avant partir, Orathio cherche dans la salle une cachette, au cas ou.  Orathio trouve sous un compartiment caché :
+Une paire de bottes "Boots of the vigilant"
+Une dague "Dagger of life stealing"
+Une petite bourse contenant, "Fine moustache"
+Une autre dague "Flametounge dagger"
+Un anneau "Ring of the shooting star"
+"Lightning Mace"
+Un coffret contenant 80 pièce de platine.
+
+Nous finissons enfin par nous téléporter hors de la forteresse, pour atterrir à l'endroit le plus proche que nous connaissions, l'antre du dragon de givre. Nous sortons de nuit pour aller chercher Tognon, le compagnon draconique de Beirou. Nous voyons des traces qui rentre dans la cité, mais une seul qui sort. Tognon nous fait comprendre que c'est une personne un peu plus grand que Beirou. Je prend une potion de mind riding, je vois dans son esprit un groupe d'elfe noire habillé de gris rentrer. Je vois aussi la personne qui sort, sous le blizzard une personne sort, un humanoïde musclé qui n'est pas un elfe, un goliath ou une créature de petite taille.
